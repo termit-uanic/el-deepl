@@ -1,0 +1,28 @@
+{
+  "name": "el-deepl",
+  "description": "DeepL (https://www.deepl.com/) Integration for Linux.",
+  "version": "0.0.1",
+  "main": "index.js",
+  "dependencies": {
+    "electron": "^32.1.2",
+    "electron-store": "^10.0.0"
+  },
+  "scripts": {
+    "start": "electron --no-sandbox ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/termit-uanic/el-deepl.git"
+  },
+  "keywords": [
+    "DeepL",
+    "translator",
+    "Linux"
+  ],
+  "author": "Yuriy Poltorak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/termit-uanic/el-deepl/issues"
+  },
+  "homepage": "https://github.com/termit-uanic/el-deepl#readme"
+}
